@@ -43,7 +43,7 @@
       "React.js",
       "JavaScript",
       "Vite",
-      "CSS",
+      "CSS3",
       "Version Control (Git/GitHub)"
     ],
     "demo": "https://reetun-stays.netlify.app/",
@@ -62,6 +62,6 @@
     "Responsive Design",
     "Version Control (Git/GitHub)"
   ],
-  "source": "https://github.com/your-github-link"
+  "source": "https://github.com/abhishek-poddar9/personal-portfolio"
 }
 ]
