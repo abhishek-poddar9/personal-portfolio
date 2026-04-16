@@ -5,6 +5,7 @@
     "description": "Scalable AI-powered SaaS platform for content generation, image processing, and resume analysis with secure authentication.",
     "skills": [
       "React.js",
+      "JavaScript (ES6+)",
       "Tailwind CSS",
       "Node.js",
       "Express.js",
@@ -25,6 +26,7 @@
     "skills": [
       "React.js",
       "Node.js",
+      "JavaScript (ES6+)",
       "Express.js",
       "MongoDB",
       "Firebase Auth",
@@ -41,7 +43,7 @@
     "description": "Modern stay booking platform with responsive UI, dynamic listings, and smooth user experience.",
     "skills": [
       "React.js",
-      "JavaScript",
+      "JavaScript (ES6+)",
       "Vite",
       "CSS3",
       "Version Control (Git/GitHub)"
@@ -56,7 +58,7 @@
   "description": "Designed and developed a modern responsive portfolio to showcase projects, technical skills, and certifications with a strong focus on clean interface design, smooth navigation, and performance optimization.",
   "skills": [
     "React.js",
-    "JavaScript",
+    "JavaScript (ES6+)",
     "CSS Modules",
     "Vite",
     "Responsive Design",
