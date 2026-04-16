@@ -1,0 +1,48 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 80px;
+  padding: 70px 6%;
+  border-radius: 32px;
+  background: linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.08);
+}
+
+.title {
+  font-size: 42px;
+  font-weight: 800;
+  margin-bottom: 42px;
+  color: #1f1f1f;
+  text-align: center;
+  letter-spacing: -0.5px;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  align-items: stretch;
+}
+
+@media screen and (max-width: 1200px) {
+  .projects {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 50px 6%;
+    border-radius: 24px;
+  }
+
+  .title {
+    font-size: 34px;
+    margin-bottom: 32px;
+  }
+
+  .projects {
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+}

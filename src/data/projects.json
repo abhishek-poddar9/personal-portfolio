@@ -1,0 +1,67 @@
+[
+  {
+    "title": "ReeTun AI – AI SaaS Platform",
+    "imageSrc": "projects/ReeTun-AI.png",
+    "description": "Scalable AI-powered SaaS platform for content generation, image processing, and resume analysis with secure authentication.",
+    "skills": [
+      "React.js",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "Clerk",
+      "JWT",
+      "Cloudinary",
+      "Multer",
+      "Gemini API"
+    ],
+    "demo": "https://reetun-ai-front-end.onrender.com/",
+    "source": "https://github.com/abhishek-poddar9/ReeTunAI"
+  },
+  {
+    "title": "Intervexa AI – Interview Platform",
+    "imageSrc": "projects/Intervexa-AI.png",
+    "description": "AI-powered interview platform with resume-based questions, voice interaction, and real-time performance analytics.",
+    "skills": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase Auth",
+      "JWT",
+      "Razorpay",
+      "OpenRouter API"
+    ],
+    "demo": "https://intervexa-ai-u3ok.onrender.com/",
+    "source": "https://github.com/abhishek-poddar9/Intervexa-AI"
+  },
+  {
+    "title": "ReeTun Stays – Booking Platform",
+    "imageSrc": "projects/ReeTun-Stays.png",
+    "description": "Modern stay booking platform with responsive UI, dynamic listings, and smooth user experience.",
+    "skills": [
+      "React.js",
+      "JavaScript",
+      "Vite",
+      "CSS",
+      "Version Control (Git/GitHub)"
+    ],
+    "demo": "https://reetun-stays.netlify.app/",
+    "source": "https://github.com/abhishek-poddar9/ReeTun-Stays"
+  },
+
+{
+  "title": "Personal Portfolio",
+  "imageSrc": "projects/portfolio.png",
+  "description": "Designed and developed a modern responsive portfolio to showcase projects, technical skills, and certifications with a strong focus on clean interface design, smooth navigation, and performance optimization.",
+  "skills": [
+    "React.js",
+    "JavaScript",
+    "CSS Modules",
+    "Vite",
+    "Responsive Design",
+    "Version Control (Git/GitHub)"
+  ],
+  "source": "https://github.com/your-github-link"
+}
+]

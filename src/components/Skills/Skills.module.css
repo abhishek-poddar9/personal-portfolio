@@ -1,0 +1,88 @@
+.container {
+  padding: 80px 10%;
+}
+
+.title {
+  font-size: 38px;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+
+.wrapper {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+
+.skillsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  flex: 1;
+}
+
+
+.skillCard {
+  width: 140px;
+  height: 170px;
+  background: linear-gradient(180deg, #f5f7fa, #e4eaf3);
+  border-radius: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.skillCard img {
+  width: 55px;
+  height: 55px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+.skillCard p {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+
+.skillCard:hover {
+  transform: translateY(-8px) scale(1.05);
+  background: linear-gradient(135deg, #ffdde1, #c3cfe2);
+}
+
+
+.certifications {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+
+.certCard {
+  padding: 20px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #dbeafe, #fbcfe8);
+  transition: 0.3s;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+
+.certCard h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.certCard p {
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+
+.certCard:hover {
+  transform: translateX(6px);
+}
