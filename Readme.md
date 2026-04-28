@@ -23,4 +23,3 @@ A modern, responsive personal portfolio website built to showcase my projects, t
 
 ## Live Demo
 
-https://abhishek-poddar-portfolio.netlify.app/
